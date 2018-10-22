@@ -58,4 +58,7 @@
 
 <a href="https://blackrockdigital.github.io/startbootstrap-agency/">Afternoon project</a>
 
-<img style='width: 100px' src="./media/afternoon.png" >
+
+| Mobile  | Desktop |
+| ------------- | ------------- | 
+| <img style='width: 100px' src="./media/afternoon.png" >  | <img style='width: 100px' src="./media/desktop.png" >  |
