@@ -49,18 +49,18 @@
 <div style='display: flex'>
     <div>
         <h3>From the side</h3>
-        <img style='width: 200px' src="./media/nav1.png" />
+        <img style='width: 100px' src="./media/nav1.png" >
     </div>
     <div>
         <h3>From the bottom</h3>
-        <img style='width: 200px' src="./media/nav2.png" />
+        <img style='width: 100px' src="./media/nav2.png" >
     </div>
     <div>
         <h3>From the top</h3>
-        <img style='width: 200px' src="./media/nav3.png" />
+        <img style='width: 100px' src="./media/nav3.png" >
     </div>
     <div>
         <h3>From under nav</h3>
-        <img style='width: 200px' src="./media/nav4.png" />
+        <img style='width: 100px' src="./media/nav4.png" >
     </div>
 </div>
