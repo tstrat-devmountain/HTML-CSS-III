@@ -43,15 +43,24 @@
 
 # Mini
 
-Choose one!
-### option 1 - side nav
-<img style='width: 250px' src="./media/nav1.png" />
+## Choose one!
 
-### option 2 - from bottom
-<img style='width: 250px' src="./media/nav2.png" />
 
-### option 3 - from top
-<img style='width: 250px'  src="./media/nav3.png" />
-
-### option 4 - under nav top
-<img style='width: 250px'  src="./media/nav4.png" />
+<div style='display: flex'>
+    <div>
+        <h3>From the side</h3>
+        <img style='width: 200px' src="./media/nav1.png" />
+    </div>
+    <div>
+        <h3>From the bottom</h3>
+        <img style='width: 200px' src="./media/nav2.png" />
+    </div>
+    <div>
+        <h3>From the top</h3>
+        <img style='width: 200px' src="./media/nav3.png" />
+    </div>
+    <div>
+        <h3>From under nav</h3>
+        <img style='width: 200px' src="./media/nav4.png" />
+    </div>
+</div>
